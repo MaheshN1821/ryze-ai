@@ -1,6 +1,6 @@
 # Ryze.Ai
 
-## This project is a redesigned version of the Get-Ryze.ai website. The goal was to improve visual appeal, usability, and clarity while keeping the design modern, clean, and professional. The redesign focuses on clearly communicating Ryze’s value proposition and improving user engagement.
+This project is a redesigned version of the Get-Ryze.ai website. The goal was to improve visual appeal, usability, and clarity while keeping the design modern, clean, and professional. The redesign focuses on clearly communicating Ryze’s value proposition and improving user engagement.
 Website live link: https://ryze-ai-seven.vercel.app/
 
 # Objective
